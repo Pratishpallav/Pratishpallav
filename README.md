@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratishpallav
-- 👀 I’m interested in nee opportunities.
+- 👀 I’m interested in new opportunities.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
 - 📫 you may drop mail at tridentinfoservices@gmail.com
